@@ -1,0 +1,17 @@
+{
+  "name": "real-dark-mode-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "real-dark-mode": "^1.0.2"
+  }
+}
