@@ -12,6 +12,7 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.0.2",
     "real-dark-mode": "^1.0.2"
   }
 }
